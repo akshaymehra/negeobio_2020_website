@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Northeast Geobiology Symposium on 2020 Northeast Geobiology Symposium</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Northeast Geobiology Symposium on 2020 Northeast Geobiology Symposium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Oct 2019 14:54:32 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accommodations</title>
+      <link>http://example.org/accommodations/</link>
+      <pubDate>Sun, 27 Oct 2019 14:54:32 -0400</pubDate>
+      
+      <guid>http://example.org/accommodations/</guid>
+      <description> Accommo&amp;shy;dations Some text about how airbnbs are hard to find&amp;hellip;
+In Hanover Hanover Inn    Surrounding areas </description>
+    </item>
+    
+    <item>
+      <title>Details</title>
+      <link>http://example.org/meeting_details/</link>
+      <pubDate>Sat, 26 Oct 2019 14:52:02 -0400</pubDate>
+      
+      <guid>http://example.org/meeting_details/</guid>
+      <description> Meeting Details    Schedule       Friday, April 25     6:30 PM Pre-meeting reception The Skinny Pancake 3 Lebanon St, Hanover, NH 03755   Saturday, April 25     9:00 AM Opening remarks Oopik Auditorium Life Sciences Center   9:30 AM &amp;ndash; 11:30 AM Talks    &amp;hellip;     4:00 &amp;ndash; 6:30 PM Poster session and reception Top of the Hop Hopkin’s Center    </description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>http://example.org/code_of_conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/code_of_conduct/</guid>
+      <description>Code of Conduct The Northeast Geobiology Meeting strives to be a place where all members of our community can feel safe and included. Behavior that prevents this from happening is unacceptable. Expected Behavior
+All meeting participants are to:  Be treated with respect and consideration. Be considerate, collegial, and collaborative. Communicate openly, with civil attitudes, critiquing ideas rather than individuals. Avoid personal attacks Alert meeting organizers if you notice someone in distress, or perceive a potentially dangerous situation, or witness a dangerous situation.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>Please email &amp;mdash;@&amp;mdash;.&amp;mdash; with any questions you may have.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>http://example.org/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/registration/</guid>
+      <description> Registration </description>
+    </item>
+    
+  </channel>
+</rss>

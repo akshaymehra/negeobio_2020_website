@@ -9,7 +9,6 @@ menu:
 # Code of Conduct
 
 The Northeast Geobiology Meeting strives to be a place where all members of our community can feel safe and included. Behavior that prevents this from happening is unacceptable.
-Expected Behavior
 
 ## All meeting participants are to:
 
@@ -39,6 +38,6 @@ Expected Behavior
 
 ## Reporting Unacceptable Behavior
 
-If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify a meeting organizer (...) in-person, by e-mail, or by phone.
+If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify a meeting organizer (Tim Gibson, Akshay Mehra, or Justin Strauss) in-person, by e-mail, or by phone.
 
 Anyone experiencing or witnessing behavior that constitutes an immediate or serious threat to public safety, or a criminal act is expected to contact 911.  Those witnessing a potential criminal act should also take actions necessary to maintain their own personal safety.

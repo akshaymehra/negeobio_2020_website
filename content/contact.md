@@ -6,4 +6,7 @@ menu:
         weight: 50
 ---
 
-Please email ---@---.--- with any questions you may have.
+# Questions? Concerns? #
+
+Feel free to send us an [email] (mailto:
+negeobio2020@gmail.com)! 

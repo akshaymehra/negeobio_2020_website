@@ -9,7 +9,7 @@ menu:
 
 # Accommo&shy;dations
 
-Some text about how airbnbs are hard to find...
+The Upper Valley does not have many AirBNBs, so we recommend booking early. Otherwise, you can also stay at:
 
 ## In Hanover
 

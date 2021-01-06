@@ -2,60 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Northeast Geobiology Symposium on 2020 Northeast Geobiology Symposium</title>
-    <link>http://example.org/</link>
+    <link>https://www.dartmouth.edu/~negeobio2020/</link>
     <description>Recent content in Northeast Geobiology Symposium on 2020 Northeast Geobiology Symposium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Oct 2019 14:54:32 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.dartmouth.edu/~negeobio2020/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Accommodations</title>
-      <link>http://example.org/accommodations/</link>
+      <link>https://www.dartmouth.edu/~negeobio2020/accommodations/</link>
       <pubDate>Sun, 27 Oct 2019 14:54:32 -0400</pubDate>
       
-      <guid>http://example.org/accommodations/</guid>
-      <description> Accommo&amp;shy;dations Some text about how airbnbs are hard to find&amp;hellip;
-In Hanover Hanover Inn    Surrounding areas </description>
+      <guid>https://www.dartmouth.edu/~negeobio2020/accommodations/</guid>
+      <description> Accommo&amp;shy;dations Please note: The Upper Valley does not have many AirBNBs, so we recommend booking early.
+There are several hotel options near Dartmouth College. In the case of hotels with room blocks, please call the hotel directly to make a reservation. The group name is NE Geobiology Meeting.
+   Within Hanover       Hanover Inn 2 E Wheelock St Hanover, NH 03755 (603) 643-4300    Six South Street Hotel 6 South St Hanover, NH 03755 (603) 643-0600    Surrounding areas     Courtyard by Marriott Hanover Lebanon 10 Morgan Dr Lebanon, NH 03766 (603) 643-5600 Room block   Residence Inn by Marriott Hanover Lebanon 32 Centerra Pkwy Lebanon, NH 03766 (603) 643-4511 Room block    </description>
     </item>
     
     <item>
       <title>Details</title>
-      <link>http://example.org/meeting_details/</link>
+      <link>https://www.dartmouth.edu/~negeobio2020/meeting_details/</link>
       <pubDate>Sat, 26 Oct 2019 14:52:02 -0400</pubDate>
       
-      <guid>http://example.org/meeting_details/</guid>
-      <description> Meeting Details    Schedule       Friday, April 25     6:30 PM Pre-meeting reception The Skinny Pancake 3 Lebanon St, Hanover, NH 03755   Saturday, April 25     9:00 AM Opening remarks Oopik Auditorium Life Sciences Center   9:30 AM &amp;ndash; 11:30 AM Talks    &amp;hellip;     4:00 &amp;ndash; 6:30 PM Poster session and reception Top of the Hop Hopkin’s Center    </description>
+      <guid>https://www.dartmouth.edu/~negeobio2020/meeting_details/</guid>
+      <description> Meeting Details    Schedule       Friday, April 24     6:00 PM &amp;ndash; Pre-meeting reception The Skinny Pancake 3 Lebanon St, Hanover, NH 03755   Saturday, April 25     8:00 AM &amp;ndash; 8:45 AM Registration, coffee, and breakfast Oopik Auditorium Life Sciences Center   8:45 &amp;ndash; 9:00 AM Opening remarks    9:00 AM &amp;ndash; 10:15 AM Talks    10:15 AM &amp;ndash; 10:45 AM Coffee break    10:45 AM &amp;ndash; 12:00 PM Talks    12:00 PM &amp;ndash; 1:30 PM Lunch    1:30 PM &amp;ndash; 2:15 PM Talks    2:15 PM &amp;ndash; 2:45 PM Coffee break    2:45 PM &amp;ndash; 3:30 PM Talks    4:00 &amp;ndash; 6:30 PM Poster session and reception Top of the Hop Hopkin’s Center    </description>
     </item>
     
     <item>
       <title>Code of Conduct</title>
-      <link>http://example.org/code_of_conduct/</link>
+      <link>https://www.dartmouth.edu/~negeobio2020/code_of_conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/code_of_conduct/</guid>
-      <description>Code of Conduct The Northeast Geobiology Meeting strives to be a place where all members of our community can feel safe and included. Behavior that prevents this from happening is unacceptable. Expected Behavior
+      <guid>https://www.dartmouth.edu/~negeobio2020/code_of_conduct/</guid>
+      <description>Code of Conduct The Northeast Geobiology Meeting strives to be a place where all members of our community can feel safe and included. Behavior that prevents this from happening is unacceptable.
 All meeting participants are to:  Be treated with respect and consideration. Be considerate, collegial, and collaborative. Communicate openly, with civil attitudes, critiquing ideas rather than individuals. Avoid personal attacks Alert meeting organizers if you notice someone in distress, or perceive a potentially dangerous situation, or witness a dangerous situation.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://example.org/contact/</link>
+      <link>https://www.dartmouth.edu/~negeobio2020/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/contact/</guid>
-      <description>Please email &amp;mdash;@&amp;mdash;.&amp;mdash; with any questions you may have.</description>
+      <guid>https://www.dartmouth.edu/~negeobio2020/contact/</guid>
+      <description>Questions? Concerns? Feel free to send us an email!</description>
     </item>
     
     <item>
       <title>Registration</title>
-      <link>http://example.org/registration/</link>
+      <link>https://www.dartmouth.edu/~negeobio2020/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/registration/</guid>
-      <description> Registration </description>
+      <guid>https://www.dartmouth.edu/~negeobio2020/registration/</guid>
+      <description> Registration There are no fees to attend the meeting or submit abstracts, but we ask that you register so we can gather accurate numbers for food and drink.
+Please register and (if applicable) submit abstracts below. Oral presentations will be offered to graduate students and postdocs first.
+Registration will close March 15, 2020.
+Loading… </description>
     </item>
     
   </channel>

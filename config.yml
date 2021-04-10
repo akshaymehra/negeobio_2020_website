@@ -1,0 +1,12 @@
+---
+baseURL: "https://negeobio2021.host.dartmouth.edu/"
+languageCode: "en-us"
+title: "2021 Northeast Geobiology Symposium"
+theme: "negeobio"
+markup:
+  goldmark:
+    extensions:
+        typographer: false
+    renderer:
+      unsafe: true
+---

@@ -1,40 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.dartmouth.edu/~negeobio2020/accommodations/</loc>
-    <lastmod>2019-10-27T14:54:32-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dartmouth.edu/~negeobio2020/</loc>
-    <lastmod>2019-10-27T14:54:32-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.dartmouth.edu/~negeobio2020/meeting_details/</loc>
+    <loc>https://negeobio2021.host.dartmouth.edu/meeting-details/</loc>
     <lastmod>2019-10-26T14:52:02-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.dartmouth.edu/~negeobio2020/categories/</loc>
+    <loc>https://negeobio2021.host.dartmouth.edu/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.dartmouth.edu/~negeobio2020/code_of_conduct/</loc>
+    <loc>https://negeobio2021.host.dartmouth.edu/code-of-conduct/</loc>
   </url>
   
   <url>
-    <loc>https://www.dartmouth.edu/~negeobio2020/contact/</loc>
+    <loc>https://negeobio2021.host.dartmouth.edu/contact/</loc>
   </url>
   
   <url>
-    <loc>https://www.dartmouth.edu/~negeobio2020/registration/</loc>
+    <loc>https://negeobio2021.host.dartmouth.edu/keynote/</loc>
   </url>
   
   <url>
-    <loc>https://www.dartmouth.edu/~negeobio2020/tags/</loc>
+    <loc>https://negeobio2021.host.dartmouth.edu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://negeobio2021.host.dartmouth.edu/tags/</loc>
   </url>
   
 </urlset>
